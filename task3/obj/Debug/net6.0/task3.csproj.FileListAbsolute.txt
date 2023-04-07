@@ -1,0 +1,15 @@
+C:\GB_Git\C#\ht3\task3\bin\Debug\net6.0\task3.exe
+C:\GB_Git\C#\ht3\task3\bin\Debug\net6.0\task3.deps.json
+C:\GB_Git\C#\ht3\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+C:\GB_Git\C#\ht3\task3\bin\Debug\net6.0\task3.dll
+C:\GB_Git\C#\ht3\task3\bin\Debug\net6.0\task3.pdb
+C:\GB_Git\C#\ht3\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+C:\GB_Git\C#\ht3\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB_Git\C#\ht3\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+C:\GB_Git\C#\ht3\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+C:\GB_Git\C#\ht3\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+C:\GB_Git\C#\ht3\task3\obj\Debug\net6.0\task3.dll
+C:\GB_Git\C#\ht3\task3\obj\Debug\net6.0\refint\task3.dll
+C:\GB_Git\C#\ht3\task3\obj\Debug\net6.0\task3.pdb
+C:\GB_Git\C#\ht3\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+C:\GB_Git\C#\ht3\task3\obj\Debug\net6.0\ref\task3.dll
